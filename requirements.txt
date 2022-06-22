@@ -1,5 +1,5 @@
 certifi==2020.4.5.1
-numpy==1.18.3
+numpy==1.22.0
 pandas==1.0.3
 patsy==0.5.1
 plotly==4.6.0
